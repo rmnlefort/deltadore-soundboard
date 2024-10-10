@@ -1,1 +1,1 @@
-https://rmnlefort.github.io/soundboard/
+https://rmnlefort.github.io/deltadore-soundboard/
