@@ -14,7 +14,7 @@ html {
     bottom: 0;
     height: 60px;
     width: 100%;
-    background-color: #031520;
+    background-color: #354254;
     border-top: 0px solid; }
   
   h1 {
@@ -24,7 +24,7 @@ html {
     margin-bottom: 1em; }
 
     .title {
-        color: #FFFFFF;
+        color: #354254;
         margin-bottom: 2em;
         font-size: 1.5em;  }
         
@@ -32,11 +32,11 @@ html {
         margin-top: 0.5em;  }
   
   .btn {
-    background-color: #1A5274;
+    background-color: #20776C;
     color: #ffffff; 
-    border-radius: 130px;}
+    border-radius: 160px;}
     .btn:hover {
-      background-color: #FF7400;
+      background-color: #24AD8D;
       color: #ffffff; }
   
   .col-xs-6 {
