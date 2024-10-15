@@ -162,6 +162,18 @@ const objects = [
     {
         "label":"Gaëlle, j'ai une surprise",
         "path":"gaelle.mp3"
+    },
+    {
+        "label":"Arrangeoir !",
+        "path":"Arrangeoir_01.mp3"
+    },
+    {
+        "label":"La fille à la tête de dinde",
+        "path":"Fille tete dinde.mp3"
+    },
+    {
+        "label":"Meurs Jean-Pierre Pernaut",
+        "path":"Meurs Jean-Pierre Pernaut.mp3"
     }
     
 ]
