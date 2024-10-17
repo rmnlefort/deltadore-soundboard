@@ -174,6 +174,10 @@ const objects = [
     {
         "label":"Meurs Jean-Pierre Pernaut",
         "path":"Meurs Jean-Pierre Pernaut.mp3"
+    },
+    {
+        "label":"Arrête de ta la péter",
+        "path":"Arrete_de_te_la_peter.mp3"
     }
     
 ]
