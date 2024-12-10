@@ -178,6 +178,10 @@ const objects = [
     {
         "label":"Arrête de ta la péter",
         "path":"Arrete_de_te_la_peter.mp3"
+    },
+    {
+        "label":"They're eating the doooogs",
+        "path":"Trump Migrants Claim cut.mp3"
     }
     
 ]
