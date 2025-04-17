@@ -28,10 +28,6 @@ const objects = [
         "path":"les-visiteurs-ok.mp3"
     },
     {
-        "label":"Il s'appelle Juste Leblanc",
-        "path":"juste.mp3"
-    },
-    {
         "label":"Tu veux manger quoi ?",
         "path":"manger-quoi.mp3"
     },
@@ -66,10 +62,6 @@ const objects = [
     {
         "label":"Terrorisme, grand banditisme",
         "path":"terrorisme.mp3"
-    },
-    {
-        "label":"Mobilisation générale à Rennes",
-        "path":"stup-rennes.mp3"
     },
     {
         "label":"La moindre erreur ne pardonne pas",
@@ -120,28 +112,12 @@ const objects = [
         "path":"ils-sont-la.mp3"
     },
     {
-        "label":"Caca chez Paul",
-        "path":"je-vais-faire-caca.mp3"
-    },
-    {
         "label":"Pas le choix",
         "path":"pas-le-choix.mp3"
     },
     {
         "label":"J'ai pas le temps",
         "path":"pas-le-temps.mp3"
-    },
-    {
-        "label":"Calme-toi Jérémie",
-        "path":"calme_toi_jeremie.mp3"
-    },
-    {
-        "label":"Brice sauve moi !",
-        "path":"bricesauvemoi.mp3"
-    },
-    {
-        "label":"Je m'appelle Brice",
-        "path":"jemappellebrice.mp3"
     },
     {
         "label":"C'est pas cool",
