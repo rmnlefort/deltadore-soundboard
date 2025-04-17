@@ -182,6 +182,18 @@ const objects = [
     {
         "label":"They're eating the doooogs",
         "path":"Trump Migrants Claim cut.mp3"
+    },
+    {
+        "label":"Valérie vient de péter",
+        "path":"valerie01.mp3"
+    },
+    {
+        "label":"Valérie, as-tu pété ?",
+        "path":"valerie02.mp3"
+    },
+    {
+        "label":"Je sécurise mon habitat",
+        "path":"secu01.mp3"
     }
     
 ]
