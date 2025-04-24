@@ -170,6 +170,22 @@ const objects = [
     {
         "label":"Je sécurise mon habitat",
         "path":"secu01.mp3"
+    },
+    {
+        "label":"AhhhhHHHHhhhh",
+        "path":"AhhhhHHHHhhhh.mp3"
+    },
+    {
+        "label":"On peut même plus se branler",
+        "path":"branlette.mp3"
+    },
+    {
+        "label":"Marina domine 😑",
+        "path":"secu01.mp3"
+    },
+    {
+        "label":"Marina passe 😑",
+        "path":"secu01.mp3"
     }
     
 ]
