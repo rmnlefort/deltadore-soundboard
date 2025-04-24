@@ -104,20 +104,8 @@ const objects = [
         "path":"quelle-indignite.mp3"
     },
     {
-        "label":"Olivier !",
-        "path":"olivier.mp3"
-    },
-    {
         "label":"Ils sont là",
         "path":"ils-sont-la.mp3"
-    },
-    {
-        "label":"Pas le choix",
-        "path":"pas-le-choix.mp3"
-    },
-    {
-        "label":"J'ai pas le temps",
-        "path":"pas-le-temps.mp3"
     },
     {
         "label":"C'est pas cool",
@@ -194,5 +182,9 @@ const objects = [
     {
         "label":"Je vais pas faire vous trucs de clochard",
         "path":"je vais pas faire vos trucs.mp3"
+    },
+    {
+        "label":"Rien de tel qu'une femme",
+        "path":"Femme Menage.mp3"
     }
 ]
