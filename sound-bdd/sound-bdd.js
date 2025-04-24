@@ -181,11 +181,11 @@ const objects = [
     },
     {
         "label":"Marina domine 😑",
-        "path":"secu01.mp3"
+        "path":"Marina domine 😑.mp3"
     },
     {
         "label":"Marina passe 😑",
-        "path":"secu01.mp3"
+        "path":"Marina passe et tu técartes 😑.mp3"
     }
     
 ]
