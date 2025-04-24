@@ -186,6 +186,13 @@ const objects = [
     {
         "label":"Marina passe 😑",
         "path":"Marina passe et tu técartes 😑.mp3"
+    },
+    {
+        "label":"Taisez vous !!",
+        "path":"taisezvous.mp3"
+    },
+    {
+        "label":"Je vais pas faire vous trucs de clochard",
+        "path":"je vais pas faire vos trucs.mp3"
     }
-    
 ]
