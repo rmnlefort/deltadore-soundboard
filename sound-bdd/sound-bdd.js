@@ -186,5 +186,9 @@ const objects = [
     {
         "label":"Rien de tel qu'une femme",
         "path":"Femme Menage.mp3"
+    },
+    {
+        "label":"Axel vient manger !",
+        "path":"axel.mp3"
     }
 ]
