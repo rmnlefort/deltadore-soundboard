@@ -190,5 +190,9 @@ const objects = [
     {
         "label":"Axel vient manger !",
         "path":"axel.mp3"
+    },
+    {
+        "label":"Ne me parlez plus de cette histoire !",
+        "path":"ne me parlez plus.mp3"
     }
 ]
