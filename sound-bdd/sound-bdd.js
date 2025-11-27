@@ -206,5 +206,9 @@ const objects = [
     {
         "label":"UNACCEPTABLE !!",
         "path":"UNACCEPTABLE.mp3"
+    },
+    {
+        "label":"Fucking Goat",
+        "path":"Fucking goat.mp3"
     }
 ]
