@@ -210,5 +210,13 @@ const objects = [
     {
         "label":"Fucking Goat",
         "path":"Fucking goat.mp3"
+    },
+    {
+        "label":"For sure",
+        "path":"for_sure.mp3"
+    },
+    {
+        "label":"Mikeline",
+        "path":"Mikeline.mp3"
     }
 ]
