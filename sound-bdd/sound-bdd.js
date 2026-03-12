@@ -219,4 +219,12 @@ const objects = [
         "label":"Mikeline",
         "path":"Mikeline.mp3"
     }
+      {
+        "label":"On a un ennemi en commun",
+        "path":"ennemi_commun.mp3"
+    },
+    {
+        "label":"Tu connais Caroline ?",
+        "path":"tu_connais_caroline.mp3"
+    }
 ]
