@@ -226,5 +226,9 @@ const objects = [
     {
         "label":"Tu connais Caroline ?",
         "path":"tu_connais_caroline.mp3"
+    },
+    {
+        "label":"Par la puissance de Dieu !",
+        "path":"puissance_dieu.mp3"
     }
 ]
