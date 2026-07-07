@@ -230,5 +230,9 @@ const objects = [
     {
         "label":"Par la puissance de Dieu !",
         "path":"puissance_dieu.mp3"
+    },
+    {
+        "label":"Jean Petit",
+        "path":"desondoigt.mp3"
     }
 ]
