@@ -234,5 +234,17 @@ const objects = [
     {
         "label":"Jean Petit",
         "path":"desondoigt.mp3"
+    },
+    {
+        "label":"Belieeeeve !",
+        "path":"belleieve.mp3"
+    },
+    {
+        "label":"Nan mais WTF",
+        "path":"maisWTF.mp3"
+    },
+    {
+        "label":"Une robe vreuuuument",
+        "path":"Une robe vreuuuument.mp3"
     }
 ]
