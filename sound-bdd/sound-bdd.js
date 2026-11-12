@@ -246,5 +246,13 @@ const objects = [
     {
         "label":"Une robe vreuuuument",
         "path":"Une robe vreuuuument.mp3"
+    },
+    {
+        "label":"Je veux faire l'amour !",
+        "path":"Je veux faire l'amour.mp3"
+    },
+    {
+        "label":"T'es un malade Bernard",
+        "path":"T'es un malade Bernard.mp3"
     }
 ]
